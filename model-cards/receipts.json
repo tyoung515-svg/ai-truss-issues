@@ -1,0 +1,307 @@
+{
+  "e4b": {
+    "url": "https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/raw/b738967d6da3441a7d1c71fcec15e49e32e16ecd/README.md",
+    "sha256": "b3bf856a0183b1b5ee9817ac7ee5041a9501b86ff96968c45ee23da54a30da1a",
+    "status": "retrieved",
+    "revision": "b738967d6da3441a7d1c71fcec15e49e32e16ecd",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "temperature": "1.0",
+      "top_p": "0.95",
+      "top_k": "card gives no value",
+      "min_p": "card gives no value",
+      "presence_penalty": "card gives no value",
+      "repeat_penalty": "card gives no value",
+      "thinking": "enable_thinking=True",
+      "output_budget": "card gives no value"
+    }
+  },
+  "qwen9": {
+    "url": "https://huggingface.co/unsloth/Qwen3.5-9B-MTP-GGUF/raw/9716a636ee4bddc3fed678220b7a33dd2a4160ae/README.md",
+    "sha256": "c7e42ec5bf54fb7948e30e8d865b803d7a2282547fde6c3ed4cd876ee6098e4e",
+    "status": "retrieved",
+    "revision": "9716a636ee4bddc3fed678220b7a33dd2a4160ae",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "temperature": "1.0",
+      "top_p": "0.95",
+      "top_k": "20",
+      "min_p": "0.0",
+      "presence_penalty": "1.5",
+      "repeat_penalty": "1.0",
+      "thinking": "thinking mode by default",
+      "output_budget": "card gives no value"
+    }
+  },
+  "groot": {
+    "url": "https://huggingface.co/bartowski/GrootTeam_Groot-19B-A3B-261023-GGUF/raw/0025df0d03fb385344394f4e5afd73ce47da0680/README.md",
+    "sha256": "00e172e3385a76a61af71a7042988edf1a6324845e12b1816ad4e02a7bfaf1bb",
+    "status": "retrieved",
+    "revision": "0025df0d03fb385344394f4e5afd73ce47da0680",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "temperature": "card gives no value",
+      "top_p": "card gives no value",
+      "top_k": "card gives no value",
+      "min_p": "card gives no value",
+      "presence_penalty": "card gives no value",
+      "repeat_penalty": "card gives no value",
+      "thinking": "<think>",
+      "output_budget": "card gives no value"
+    }
+  },
+  "gemma": {
+    "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF/raw/fc034cfff751157913579611efad8462ac1be606/README.md",
+    "sha256": "9106afa0a21951c099f4ca9851ab7efa31fd27f57feee63d70026c3b9b7cdf1c",
+    "status": "retrieved",
+    "revision": "fc034cfff751157913579611efad8462ac1be606",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "temperature": "1.0",
+      "top_p": "0.95",
+      "top_k": "64",
+      "min_p": "card gives no value",
+      "presence_penalty": "card gives no value",
+      "repeat_penalty": "card gives no value",
+      "thinking": "enable_thinking=True",
+      "output_budget": "card gives no value"
+    }
+  },
+  "inkling": {
+    "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF/raw/ea0c79b2ecd73669e774c8519b79bfabfddbc027/README.md",
+    "sha256": "98f3b41a4d7f4d0eebd368a206ceb46bc09d67fe45322a3a399ba9c0f25e6abd",
+    "status": "retrieved",
+    "revision": "ea0c79b2ecd73669e774c8519b79bfabfddbc027",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "temperature": "card gives no value",
+      "top_p": "card gives no value",
+      "top_k": "card gives no value",
+      "min_p": "card gives no value",
+      "presence_penalty": "card gives no value",
+      "repeat_penalty": "card gives no value"
+    }
+  },
+  "qwen35": {
+    "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-MTP-GGUF/raw/5bc3e238d916f48a861bac2f8a1990a0e9b7e98d/README.md",
+    "sha256": "03b88d9a26d2c06644e8620f0ee0a3fbb98749321344a4e7e40805ffdaf49e6e",
+    "status": "retrieved",
+    "revision": "5bc3e238d916f48a861bac2f8a1990a0e9b7e98d",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "temperature": "1.0",
+      "top_p": "0.95",
+      "top_k": "20",
+      "min_p": "0.0",
+      "presence_penalty": "1.5",
+      "repeat_penalty": "1.0",
+      "thinking": "thinking mode by default",
+      "output_budget": "card gives no value"
+    }
+  },
+  "flash": {
+    "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF/raw/d96201194f103c906994f283f504209dc8d2a10c/README.md",
+    "sha256": "6d5795ea3192869eabc34b00f0ddcf30337b02f3890ed2d18e04ed03dc7bb6d0",
+    "status": "retrieved",
+    "revision": "d96201194f103c906994f283f504209dc8d2a10c",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "temperature": "1.0",
+      "top_p": "0.95",
+      "top_k": "20",
+      "min_p": "0.0",
+      "presence_penalty": "0.0",
+      "repeat_penalty": "1.0",
+      "thinking": "thinking mode by default",
+      "output_budget": "card gives no value",
+      "card_output_limit": "Reasoning Content: Set the maximum output length to 262,144 tokens.",
+      "card_final_output_limit": "Final Response: Set the maximum output length to 131,072 tokens."
+    }
+  },
+  "qwen27": {
+    "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF/raw/acb953b129cc8c4f412388eef58489503e5eabe8/README.md",
+    "sha256": "66088b22a4db15353288f45a570279f76d7d8b7f349a64dd28698b867c9bd2bb",
+    "status": "retrieved",
+    "revision": "acb953b129cc8c4f412388eef58489503e5eabe8",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "temperature": "1.0",
+      "top_p": "0.95",
+      "top_k": "20",
+      "min_p": "0.0",
+      "presence_penalty": "0.0",
+      "repeat_penalty": "1.0",
+      "thinking": "Thinking mode is on by default",
+      "output_budget": "card gives no value",
+      "card_output_limit": "Reasoning Content: Set the maximum output length to 262,144 tokens.",
+      "card_final_output_limit": "Final Response: Set the maximum output length to 131,072 tokens."
+    }
+  },
+  "sensenova": {
+    "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B-GGUF/raw/b489b15c1e359e6ad429566ab02067bc4b1b12b5/README.md",
+    "sha256": "a75ef082314408ea8af33624b4215fbccf48c2a8ba99a3749593d6a59ec4e7cb",
+    "status": "retrieved",
+    "revision": "b489b15c1e359e6ad429566ab02067bc4b1b12b5",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "temperature": "0.0",
+      "top_p": "card gives no value",
+      "top_k": "card gives no value",
+      "min_p": "card gives no value",
+      "presence_penalty": "card gives no value",
+      "repeat_penalty": "card gives no value",
+      "thinking": "enable_thinking=True",
+      "output_budget": "card gives no value"
+    }
+  },
+  "gpt-6.2-astra": {
+    "url": "https://developers.openai.com/api/docs/models/gpt-6.2-astra.md",
+    "sha256": "b12e61471fed60c843626fdee3dea09c86babae84ea779a5f5eb9193cb62720f",
+    "status": "retrieved",
+    "revision": "gpt-6.2-astra",
+    "revision_kind": "Model ID (the documentation URL is unversioned)",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "temperature": "card gives no value",
+      "top_p": "card gives no value",
+      "top_k": "card gives no value",
+      "min_p": "card gives no value",
+      "presence_penalty": "card gives no value",
+      "repeat_penalty": "card gives no value"
+    }
+  },
+  "gpt-6.2-sol": {
+    "url": "https://developers.openai.com/api/docs/models/gpt-6.2-sol.md",
+    "sha256": "551d09dbb7e6f64a1af314446b8d5a72ab9bf66daa4407060007d11ce54acf43",
+    "status": "retrieved",
+    "revision": "gpt-6.2-sol",
+    "revision_kind": "Model ID (the documentation URL is unversioned)",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "temperature": "card gives no value",
+      "top_p": "card gives no value",
+      "top_k": "card gives no value",
+      "min_p": "card gives no value",
+      "presence_penalty": "card gives no value",
+      "repeat_penalty": "card gives no value"
+    }
+  },
+  "gpt-6.1-sol": {
+    "url": "https://developers.openai.com/api/docs/models/gpt-6.1-sol.md",
+    "sha256": "02dff9ef937bbc97fb24ba7c936269a549563cfb8a49b91a6ba1c1575d2b77c0",
+    "status": "retrieved",
+    "revision": "gpt-6.1-sol",
+    "revision_kind": "Model ID (the documentation URL is unversioned)",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "temperature": "card gives no value",
+      "top_p": "card gives no value",
+      "top_k": "card gives no value",
+      "min_p": "card gives no value",
+      "presence_penalty": "card gives no value",
+      "repeat_penalty": "card gives no value",
+      "reasoning_effort": "`medium` (default)",
+      "context_size": "default context window of 500K tokens in Codex"
+    }
+  },
+  "qwen3:4b": {
+    "url": "https://huggingface.co/Qwen/Qwen3-4B/raw/1cfa9a7208912126459214e8b04321603b3df60c/README.md",
+    "sha256": "71add1cd091c309b1cb1a6b943f2476eb2b004124b3bd1d32dcd0b24cc1abc47",
+    "status": "retrieved",
+    "revision": "1cfa9a7208912126459214e8b04321603b3df60c",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "temperature": "Temperature=0.6",
+      "top_p": "TopP=0.95",
+      "top_k": "TopK=20",
+      "min_p": "MinP=0",
+      "context_size": "131,072 tokens with YaRN",
+      "thinking": "enable_thinking=True",
+      "output_budget": "32,768 tokens for outputs"
+    }
+  },
+  "inkling-unavailable-revision": {
+    "url": "https://huggingface.co/api/models/unsloth/Inkling-2-Mini-GGUF/revision/cb5cb81ce8f606c9f0e0113473ca982f81c2aac8",
+    "status": "unavailable",
+    "error": "HTTP 404: Invalid rev id: cb5cb81ce8f606c9f0e0113473ca982f81c2aac8",
+    "readme_url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF/raw/cb5cb81ce8f606c9f0e0113473ca982f81c2aac8/README.md",
+    "readme_error": "HTTP 404: Entry not found",
+    "revision": "cb5cb81ce8f606c9f0e0113473ca982f81c2aac8",
+    "checked_on": "2026-11-21"
+  },
+  "inkling-base": {
+    "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini/raw/ed40e7da625f594fc9c4990f5f66be24873c22d7/README.md",
+    "sha256": "02f4cd9085aebde693ba95bfefca487eb6c098fccce6fe826fd8e90dfac56034",
+    "status": "retrieved",
+    "revision": "ed40e7da625f594fc9c4990f5f66be24873c22d7",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "thinking": "Setting reasoning effort to its minimum does not fully disable reasoning."
+    }
+  },
+  "flash-base": {
+    "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next/raw/812d96e10a0dd82b69d749e68693698cf6c36daa/README.md",
+    "sha256": "5c151489c5de6ba51318e5e03d9ffb80622f118b37e7af550a6c174c5a9fe104",
+    "status": "retrieved",
+    "revision": "812d96e10a0dd82b69d749e68693698cf6c36daa",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "thinking_level": "xhigh by default; supported levels are xhigh, medium, and low"
+    },
+    "chat_template": {
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next/raw/812d96e10a0dd82b69d749e68693698cf6c36daa/chat_template.jinja",
+      "quote": "reasoning_effort|default('xhigh')"
+    }
+  },
+  "qwen27-base": {
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B/raw/37561816e66b5b9153b1b64c10968c18c1e6f4a0/README.md",
+    "sha256": "7c24f46af1e0024e6ce9b799df6f4865f9200acf3b6f92b6530c37248cc9e821",
+    "status": "retrieved",
+    "revision": "37561816e66b5b9153b1b64c10968c18c1e6f4a0",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "thinking_level": "xhigh by default; supported levels are xhigh, medium, and low"
+    },
+    "chat_template": {
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B/raw/37561816e66b5b9153b1b64c10968c18c1e6f4a0/chat_template.jinja",
+      "quote": "reasoning_effort|default('xhigh')"
+    }
+  },
+  "gemma26": {
+    "url": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-qat-GGUF/raw/7b92b5b28818151e8669af2e45e88d6086f490dd/README.md",
+    "sha256": "ebae3fd5e6bb9ac551e02e4bf72b3ed94796afd7b3b335f240c96cb1dda68343",
+    "status": "retrieved",
+    "revision": "7b92b5b28818151e8669af2e45e88d6086f490dd",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "temperature": "temperature=1.0",
+      "top_p": "top_p=0.95",
+      "top_k": "top_k=64",
+      "min_p": "card gives no value",
+      "presence_penalty": "card gives no value",
+      "repeat_penalty": "card gives no value",
+      "thinking": "card gives no value (base card: enable_thinking=True)",
+      "output_budget": "card gives no value"
+    }
+  },
+  "gemma26-base": {
+    "url": "https://huggingface.co/google/gemma-4-26B-A4B-it/raw/4d7ae4984b7db7de8f8457170b3f1a419ee76d52/README.md",
+    "sha256": "4f463225c4fe49ec120115b0f9bb6713ff1556293a909903ffdae3df7bf974da",
+    "status": "retrieved",
+    "revision": "4d7ae4984b7db7de8f8457170b3f1a419ee76d52",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "thinking": "enable_thinking=True"
+    }
+  },
+  "gemma26-mtp": {
+    "url": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-qat-GGUF/raw/7b92b5b28818151e8669af2e45e88d6086f490dd/MTP/README.md",
+    "sha256": "cc628a1884089f6d181f5cd1ae5b2080971d5621d76a04f5020531a345e6574b",
+    "status": "retrieved",
+    "revision": "7b92b5b28818151e8669af2e45e88d6086f490dd",
+    "retrieved_on": "2026-11-21",
+    "setting_quotes": {
+      "speculative": "--spec-type draft-mtp --spec-draft-n-max 4"
+    }
+  }
+}
